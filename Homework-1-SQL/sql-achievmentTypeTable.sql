@@ -13,4 +13,4 @@ VALUES
 
 
 -- Read data 
-SELECT * FROM course;
+SELECT * FROM AchievmentType;
